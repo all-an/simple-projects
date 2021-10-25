@@ -1,0 +1,7 @@
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\Public\simple-projects\01_GuessTheNumber\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
